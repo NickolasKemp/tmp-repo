@@ -1,0 +1,6 @@
+projectKey=lab3-sonarqube-demo
+serverUrl=http://localhost:9000
+serverVersion=26.3.0.120487
+dashboardUrl=http://localhost:9000/dashboard?id=lab3-sonarqube-demo
+ceTaskId=505ec0a0-9350-4f94-83e4-ad8fa27edd3d
+ceTaskUrl=http://localhost:9000/api/ce/task?id=505ec0a0-9350-4f94-83e4-ad8fa27edd3d

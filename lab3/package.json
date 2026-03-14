@@ -1,0 +1,12 @@
+{
+  "name": "lab3-sonarqube-demo",
+  "version": "1.0.0",
+  "description": "Demo project for SonarQube analysis",
+  "main": "src/index.js",
+  "scripts": {
+    "sonar": "sonar"
+  },
+  "devDependencies": {
+    "@sonar/scan": "^4.2.7"
+  }
+}
